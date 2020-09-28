@@ -1,9 +1,9 @@
 const siteMetadata = {
     title: `Wealthbot`,
-    siteUrl: `http://localhost`,
+    siteUrl: `https://wealthbotiodev.netlify.app/`,
     capitalizeTitleOnHome: false,
     logo: `/images/logo.png`,
-    icon: `/images/icon.png`,
+    icon: `/images/icon.svg`,
     titleImage: `/images/wall.png`,
     ogImage: `/images/wall.png`,
     twoColumnWall: true,
