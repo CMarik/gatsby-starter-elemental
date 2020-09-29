@@ -37,7 +37,7 @@ module.exports = {
             bg: "#fff",
             bgalt: "#f5f5f5",
             "color-default": "#333",
-            "color-1": "#8e24aa",
+            "color-1": "#1140B3",
             "color-2": "#0f4df7",
             "color-3": "#aeb4c5",
             primary: "#f0f4df7",
